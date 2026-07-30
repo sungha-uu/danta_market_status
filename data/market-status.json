@@ -1,10 +1,10 @@
 {
   "schema_version": "danta-market-status-v1",
-  "observed_at": "2026-07-30T03:22:22.742548+00:00",
+  "observed_at": "2026-07-30T03:22:27.761076+00:00",
   "risk": {
     "level": "NORMAL",
     "entry_guard": "NORMAL",
-    "stress_score": "0.1641493624772313296903460838",
+    "stress_score": "0.1645136612021857923497267760",
     "reason_codes": [
       "MARKET_NORMAL"
     ]
@@ -18,24 +18,24 @@
     "accumulated_trading_value_million": 24064410
   },
   "breadth": {
-    "rising": 575,
+    "rising": 574,
     "flat": 23,
-    "declining": 317,
-    "declining_ratio": "0.3464480874316939890710382514",
+    "declining": 318,
+    "declining_ratio": "0.3475409836065573770491803279",
     "upper_limit": 3,
     "lower_limit": 0
   },
   "investor_net_million": {
     "personal": -1755602,
     "foreign": 644731,
-    "institution": 1115983,
-    "financial_investment": 355477,
-    "insurance": 86586,
-    "investment_trust": 187476,
-    "private_fund": 285649,
-    "bank": -10603,
-    "other_finance": 3733,
-    "pension_fund_etc": 207666,
+    "institution": 1115150,
+    "financial_investment": 348658,
+    "insurance": 86918,
+    "investment_trust": 188339,
+    "private_fund": 285523,
+    "bank": -10642,
+    "other_finance": 3825,
+    "pension_fund_etc": 212529,
     "other_corporation": -5113
   },
   "program_net_million": {
