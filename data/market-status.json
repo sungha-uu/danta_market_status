@@ -1,25 +1,25 @@
 {
   "schema_version": "danta-market-status-v1",
-  "observed_at": "2026-07-30T03:44:23.177837+00:00",
+  "observed_at": "2026-07-30T03:44:01.247931+00:00",
   "risk": {
     "level": "NORMAL",
     "entry_guard": "NORMAL",
-    "stress_score": "0.0991438979963570127504553734",
+    "stress_score": "0.1044772313296903460837887067",
     "reason_codes": [
       "MARKET_NORMAL"
     ]
   },
   "kospi": {
-    "index": "5660.51",
-    "return_pct": "-0.05",
+    "index": "5656.04",
+    "return_pct": "-0.13",
     "open": "5681.77",
     "high": "5976.82",
     "low": "5547.41",
-    "accumulated_trading_value_million": 25282327
+    "accumulated_trading_value_million": 25273176
   },
   "breadth": {
-    "rising": 634,
-    "flat": 18,
+    "rising": 632,
+    "flat": 20,
     "declining": 263,
     "declining_ratio": "0.2874316939890710382513661202",
     "upper_limit": 3,
@@ -54,7 +54,7 @@
     "program_15m": -7381
   },
   "derived": {
-    "foreign_net_ratio": "0.02207842656255494203520111104",
+    "foreign_net_ratio": "0.02208642079649981466516119699",
     "pension_absorption_ratio": "0"
   },
   "flow_quality": {
