@@ -1,27 +1,27 @@
 {
   "schema_version": "danta-market-status-v1",
-  "observed_at": "2026-07-31T00:00:05.663479+00:00",
+  "observed_at": "2026-07-31T00:01:02.189127+00:00",
   "risk": {
     "level": "NORMAL",
     "entry_guard": "NORMAL",
-    "stress_score": "0",
+    "stress_score": "0.0354017501988862370723945903",
     "reason_codes": [
       "MARKET_NORMAL"
     ]
   },
   "kospi": {
-    "index": "5593.56",
-    "return_pct": "0.00",
-    "open": "0.00",
-    "high": "0.00",
-    "low": "0.00",
-    "accumulated_trading_value_million": 0
+    "index": "5643.73",
+    "return_pct": "0.90",
+    "open": "5657.79",
+    "high": "5657.79",
+    "low": "5643.73",
+    "accumulated_trading_value_million": 229870
   },
   "breadth": {
-    "rising": 0,
-    "flat": 0,
-    "declining": 0,
-    "declining_ratio": "0",
+    "rising": 695,
+    "flat": 54,
+    "declining": 89,
+    "declining_ratio": "0.1062052505966587112171837709",
     "upper_limit": 0,
     "lower_limit": 0
   },
@@ -58,14 +58,14 @@
     "pension_absorption_ratio": "0"
   },
   "flow_quality": {
-    "as_of_date": "20260730",
-    "foreign_positive_streak": 1,
-    "pension_positive_streak": 3,
+    "as_of_date": "20260731",
+    "foreign_positive_streak": 0,
+    "pension_positive_streak": 0,
     "investment_trust_positive_streak": 0,
     "joint_positive_days_5": 0,
     "joint_positive_days_10": 2,
     "financial_investment_only_warning": false,
-    "latest_price_flow_regime": "CORE_BUYING_ABSORBING_DECLINE"
+    "latest_price_flow_regime": "PRICE_DOWN_WITH_CORE_SELLING"
   },
   "provider_complete": true
 }
