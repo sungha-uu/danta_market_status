@@ -1,13 +1,12 @@
 {
   "schema_version": "danta-market-status-v1",
-  "observed_at": "2026-07-31T06:33:30.178948+00:00",
+  "observed_at": "2026-07-31T06:39:00.214848+00:00",
   "risk": {
     "level": "NORMAL",
     "entry_guard": "NORMAL",
     "stress_score": "0.04616503089785532533624136677",
     "reason_codes": [
-      "MARKET_NORMAL",
-      "PROGRAM_SELLING_ACCELERATING"
+      "MARKET_NORMAL"
     ]
   },
   "kospi": {
@@ -41,18 +40,18 @@
   },
   "program_net_million": {
     "arbitrage": -813360,
-    "non_arbitrage": -27812,
-    "total": -841172
+    "non_arbitrage": -27804,
+    "total": -841164
   },
   "deltas_million": {
-    "foreign_5m": -337714,
-    "foreign_15m": -317443,
-    "institution_5m": -26643,
-    "institution_15m": -37703,
-    "pension_5m": -758,
-    "pension_15m": 848,
-    "program_5m": -177814,
-    "program_15m": -177780
+    "foreign_5m": 0,
+    "foreign_15m": -337714,
+    "institution_5m": 0,
+    "institution_15m": -26643,
+    "pension_5m": 0,
+    "pension_15m": -758,
+    "program_5m": 8,
+    "program_15m": -177806
   },
   "derived": {
     "foreign_net_ratio": "0.1468448354741407723263597136",
