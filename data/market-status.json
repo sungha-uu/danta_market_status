@@ -1,6 +1,6 @@
 {
   "schema_version": "danta-market-status-v1",
-  "observed_at": "2026-08-03T14:58:38.176329+00:00",
+  "observed_at": "2026-08-03T15:04:08.224740+00:00",
   "risk": {
     "level": "CAUTION",
     "entry_guard": "CAUTION",
@@ -61,7 +61,7 @@
     "as_of_date": "20260803",
     "foreign_positive_streak": 0,
     "pension_positive_streak": 0,
-    "investment_trust_positive_streak": 2,
+    "investment_trust_positive_streak": 0,
     "joint_positive_days_5": 1,
     "joint_positive_days_10": 3,
     "financial_investment_only_warning": false,
