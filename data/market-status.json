@@ -1,6 +1,6 @@
 {
   "schema_version": "danta-market-status-v1",
-  "observed_at": "2026-08-05T06:31:08.970621+00:00",
+  "observed_at": "2026-08-05T06:37:09.128203+00:00",
   "risk": {
     "level": "NORMAL",
     "entry_guard": "NORMAL",
@@ -10,12 +10,12 @@
     ]
   },
   "kospi": {
-    "index": "6598.25",
+    "index": "6598.26",
     "return_pct": "3.76",
     "open": "6603.48",
     "high": "6674.66",
     "low": "6540.27",
-    "accumulated_trading_value_million": 25212592
+    "accumulated_trading_value_million": 25212870
   },
   "breadth": {
     "rising": 675,
@@ -26,35 +26,35 @@
     "lower_limit": 0
   },
   "investor_net_million": {
-    "personal": -1294032,
-    "foreign": 1511640,
-    "institution": -236410,
-    "financial_investment": 308010,
-    "insurance": -12935,
-    "investment_trust": -13406,
-    "private_fund": -521185,
-    "bank": 2079,
-    "other_finance": 26452,
-    "pension_fund_etc": -25425,
-    "other_corporation": 18802
+    "personal": -1185346,
+    "foreign": 1446400,
+    "institution": -280194,
+    "financial_investment": 137925,
+    "insurance": -10517,
+    "investment_trust": 110045,
+    "private_fund": -519355,
+    "bank": 1969,
+    "other_finance": 26560,
+    "pension_fund_etc": -26821,
+    "other_corporation": 19139
   },
   "program_net_million": {
-    "arbitrage": 34114,
-    "non_arbitrage": 109412,
-    "total": 143526
+    "arbitrage": 5789,
+    "non_arbitrage": 117180,
+    "total": 122970
   },
   "deltas_million": {
-    "foreign_5m": 0,
-    "foreign_15m": -13448,
+    "foreign_5m": -2,
+    "foreign_15m": -65240,
     "institution_5m": 0,
-    "institution_15m": -127251,
+    "institution_15m": -43784,
     "pension_5m": 0,
-    "pension_15m": -57426,
-    "program_5m": -551,
-    "program_15m": 902
+    "pension_15m": -1396,
+    "program_5m": 0,
+    "program_15m": -21107
   },
   "derived": {
-    "foreign_net_ratio": "0.05995575544156665843797416783",
+    "foreign_net_ratio": "0.05736752698125996762764413571",
     "pension_absorption_ratio": "0"
   },
   "flow_quality": {
