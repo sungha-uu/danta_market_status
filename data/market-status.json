@@ -1,6 +1,6 @@
 {
   "schema_version": "danta-market-status-v1",
-  "observed_at": "2026-08-06T09:12:43.792665+00:00",
+  "observed_at": "2026-08-06T09:18:13.878227+00:00",
   "risk": {
     "level": "CAUTION",
     "entry_guard": "CAUTION",
@@ -46,7 +46,7 @@
   },
   "deltas_million": {
     "foreign_5m": 0,
-    "foreign_15m": 37967,
+    "foreign_15m": 37966,
     "institution_5m": 0,
     "institution_15m": 0,
     "pension_5m": 0,
