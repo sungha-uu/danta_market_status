@@ -1,6 +1,6 @@
 {
   "schema_version": "danta-market-status-v1",
-  "observed_at": "2026-08-06T07:39:12.232706+00:00",
+  "observed_at": "2026-08-06T07:44:42.303954+00:00",
   "risk": {
     "level": "CAUTION",
     "entry_guard": "CAUTION",
@@ -27,7 +27,7 @@
     "lower_limit": 0
   },
   "investor_net_million": {
-    "personal": 3338778,
+    "personal": 3338796,
     "foreign": -3327277,
     "institution": -121433,
     "financial_investment": 678695,
@@ -37,7 +37,7 @@
     "bank": -7762,
     "other_finance": 17504,
     "pension_fund_etc": 47079,
-    "other_corporation": 109932
+    "other_corporation": 109914
   },
   "program_net_million": {
     "arbitrage": 175214,
