@@ -1,47 +1,47 @@
 {
   "schema_version": "danta-market-status-v1",
-  "observed_at": "2026-08-07T00:32:55.940583+00:00",
+  "observed_at": "2026-08-07T00:35:17.190768+00:00",
   "risk": {
     "level": "NORMAL",
     "entry_guard": "NORMAL",
-    "stress_score": "0.1128375878653348131705512394",
+    "stress_score": "0.09692933777284498705142434333",
     "reason_codes": [
       "MARKET_NORMAL"
     ]
   },
   "kospi": {
-    "index": "6304.44",
-    "return_pct": "0.13",
+    "index": "6333.41",
+    "return_pct": "0.59",
     "open": "6365.07",
     "high": "6415.60",
     "low": "6290.49",
-    "accumulated_trading_value_million": 5410692
+    "accumulated_trading_value_million": 5612787
   },
   "breadth": {
-    "rising": 541,
-    "flat": 55,
-    "declining": 305,
-    "declining_ratio": "0.3385127635960044395116537181",
+    "rising": 595,
+    "flat": 44,
+    "declining": 262,
+    "declining_ratio": "0.2907880133185349611542730300",
     "upper_limit": 2,
     "lower_limit": 0
   },
   "investor_net_million": {
-    "personal": -302493,
-    "foreign": 305239,
-    "institution": 35258,
-    "financial_investment": -9340,
-    "insurance": 2403,
-    "investment_trust": 11823,
-    "private_fund": 16339,
-    "bank": -1537,
-    "other_finance": 979,
-    "pension_fund_etc": 14593,
-    "other_corporation": -38004
+    "personal": -356379,
+    "foreign": 332590,
+    "institution": 60760,
+    "financial_investment": 4043,
+    "insurance": 2551,
+    "investment_trust": 10439,
+    "private_fund": 14710,
+    "bank": -1894,
+    "other_finance": 1119,
+    "pension_fund_etc": 29791,
+    "other_corporation": -36971
   },
   "program_net_million": {
-    "arbitrage": 27632,
-    "non_arbitrage": -10665,
-    "total": 16966
+    "arbitrage": 38249,
+    "non_arbitrage": -6864,
+    "total": 31384
   },
   "deltas_million": {
     "foreign_5m": 0,
@@ -54,7 +54,7 @@
     "program_15m": 0
   },
   "derived": {
-    "foreign_net_ratio": "0.05641404093968017399622820889",
+    "foreign_net_ratio": "0.05925576723292724274054939195",
     "pension_absorption_ratio": "0"
   },
   "flow_quality": {
