@@ -1,6 +1,6 @@
 {
   "schema_version": "danta-market-status-v1",
-  "observed_at": "2026-08-10T08:19:20.810845+00:00",
+  "observed_at": "2026-08-10T08:24:52.367901+00:00",
   "risk": {
     "level": "CAUTION",
     "entry_guard": "CAUTION",
@@ -27,7 +27,7 @@
   },
   "investor_net_million": {
     "personal": 900270,
-    "foreign": -1488585,
+    "foreign": -1488584,
     "institution": 566863,
     "financial_investment": 617377,
     "insurance": 69177,
@@ -44,8 +44,8 @@
     "total": 189545
   },
   "deltas_million": {
-    "foreign_5m": 0,
-    "foreign_15m": 0,
+    "foreign_5m": 1,
+    "foreign_15m": 1,
     "institution_5m": 0,
     "institution_15m": 0,
     "pension_5m": 0,
@@ -54,7 +54,7 @@
     "program_15m": 0
   },
   "derived": {
-    "foreign_net_ratio": "-0.07901112069110109045574685104",
+    "foreign_net_ratio": "-0.07901106761309701873589850127",
     "pension_absorption_ratio": "0"
   },
   "flow_quality": {
