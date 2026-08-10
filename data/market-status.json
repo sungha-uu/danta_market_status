@@ -1,28 +1,27 @@
 {
   "schema_version": "danta-market-status-v1",
-  "observed_at": "2026-08-10T02:42:04.264619+00:00",
+  "observed_at": "2026-08-10T02:47:34.387196+00:00",
   "risk": {
     "level": "RISK_OFF",
     "entry_guard": "RISK_OFF",
-    "stress_score": "0.08717948717948717948717948717",
+    "stress_score": "0.08644688644688644688644688643",
     "reason_codes": [
-      "MARKET_DATA_INCOMPLETE",
-      "PROGRAM_SELLING_ACCELERATING"
+      "MARKET_DATA_INCOMPLETE"
     ]
   },
   "kospi": {
-    "index": "6296.92",
-    "return_pct": "0.61",
+    "index": "6315.04",
+    "return_pct": "0.90",
     "open": "6306.33",
     "high": "6394.06",
     "low": "6264.62",
-    "accumulated_trading_value_million": 9818025
+    "accumulated_trading_value_million": 9981813
   },
   "breadth": {
-    "rising": 646,
-    "flat": 26,
-    "declining": 238,
-    "declining_ratio": "0.2615384615384615384615384615",
+    "rising": 644,
+    "flat": 30,
+    "declining": 236,
+    "declining_ratio": "0.2593406593406593406593406593",
     "upper_limit": 0,
     "lower_limit": 0
   },
@@ -40,19 +39,19 @@
     "other_corporation": 0
   },
   "program_net_million": {
-    "arbitrage": 16071,
-    "non_arbitrage": -17647,
-    "total": -1575
+    "arbitrage": 34123,
+    "non_arbitrage": -19945,
+    "total": 14178
   },
   "deltas_million": {
-    "foreign_5m": 716778,
-    "foreign_15m": 662788,
-    "institution_5m": -296738,
-    "institution_15m": -333793,
-    "pension_5m": 63081,
-    "pension_15m": 31098,
-    "program_5m": -1280,
-    "program_15m": -8680
+    "foreign_5m": 739061,
+    "foreign_15m": 672332,
+    "institution_5m": -345156,
+    "institution_15m": -332164,
+    "pension_5m": 37528,
+    "pension_15m": 33999,
+    "program_5m": 15753,
+    "program_15m": 9912
   },
   "derived": {
     "foreign_net_ratio": "0",
