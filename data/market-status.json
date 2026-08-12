@@ -1,10 +1,10 @@
 {
   "schema_version": "danta-market-status-v1",
-  "observed_at": "2026-08-11T23:54:59.469639+00:00",
+  "observed_at": "2026-08-12T00:00:29.553906+00:00",
   "risk": {
     "level": "NORMAL",
     "entry_guard": "NORMAL",
-    "stress_score": "0",
+    "stress_score": "0.07231040564373897707231040563",
     "reason_codes": [
       "MARKET_NORMAL"
     ]
@@ -18,10 +18,10 @@
     "accumulated_trading_value_million": 0
   },
   "breadth": {
-    "rising": 0,
-    "flat": 0,
-    "declining": 0,
-    "declining_ratio": "0",
+    "rising": 236,
+    "flat": 60,
+    "declining": 82,
+    "declining_ratio": "0.2169312169312169312169312169",
     "upper_limit": 0,
     "lower_limit": 0
   },
