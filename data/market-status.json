@@ -1,13 +1,12 @@
 {
   "schema_version": "danta-market-status-v1",
-  "observed_at": "2026-08-12T06:33:32.848511+00:00",
+  "observed_at": "2026-08-12T06:34:58.415907+00:00",
   "risk": {
     "level": "NORMAL",
     "entry_guard": "NORMAL",
     "stress_score": "0.1747252747252747252747252747",
     "reason_codes": [
-      "MARKET_NORMAL",
-      "PROGRAM_SELLING_ACCELERATING"
+      "MARKET_NORMAL"
     ]
   },
   "kospi": {
@@ -45,14 +44,14 @@
     "total": -148847
   },
   "deltas_million": {
-    "foreign_5m": 97980,
-    "foreign_15m": 111644,
-    "institution_5m": -87266,
-    "institution_15m": -124561,
-    "pension_5m": 74,
-    "pension_15m": 1540,
-    "program_5m": -153503,
-    "program_15m": -154339
+    "foreign_5m": 0,
+    "foreign_15m": 0,
+    "institution_5m": 0,
+    "institution_15m": 0,
+    "pension_5m": 0,
+    "pension_15m": 0,
+    "program_5m": 0,
+    "program_15m": 0
   },
   "derived": {
     "foreign_net_ratio": "0.1081797600470452604627732250",
@@ -61,10 +60,10 @@
   "flow_quality": {
     "as_of_date": "20260812",
     "foreign_positive_streak": 2,
-    "pension_positive_streak": 1,
+    "pension_positive_streak": 0,
     "investment_trust_positive_streak": 2,
-    "joint_positive_days_5": 1,
-    "joint_positive_days_10": 2,
+    "joint_positive_days_5": 0,
+    "joint_positive_days_10": 1,
     "financial_investment_only_warning": false,
     "latest_price_flow_regime": "PRICE_UP_WITH_CORE_BUYING"
   },
