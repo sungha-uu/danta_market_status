@@ -1,12 +1,12 @@
 {
   "schema_version": "danta-market-status-v1",
-  "observed_at": "2026-08-12T06:22:32.716495+00:00",
+  "observed_at": "2026-08-12T06:28:02.816027+00:00",
   "risk": {
-    "level": "RISK_OFF",
-    "entry_guard": "RISK_OFF",
+    "level": "NORMAL",
+    "entry_guard": "NORMAL",
     "stress_score": "0.1783882783882783882783882784",
     "reason_codes": [
-      "MARKET_DATA_INCOMPLETE"
+      "MARKET_NORMAL"
     ]
   },
   "kospi": {
@@ -26,17 +26,17 @@
     "lower_limit": 0
   },
   "investor_net_million": {
-    "personal": 0,
-    "foreign": 0,
-    "institution": 0,
-    "financial_investment": 0,
-    "insurance": 0,
-    "investment_trust": 0,
-    "private_fund": 0,
-    "bank": 0,
-    "other_finance": 0,
-    "pension_fund_etc": 0,
-    "other_corporation": 0
+    "personal": -3178159,
+    "foreign": 2737742,
+    "institution": 615694,
+    "financial_investment": 473343,
+    "insurance": 21141,
+    "investment_trust": 129287,
+    "private_fund": 3110,
+    "bank": -2781,
+    "other_finance": 19777,
+    "pension_fund_etc": -28183,
+    "other_corporation": -175277
   },
   "program_net_million": {
     "arbitrage": -21691,
@@ -44,17 +44,17 @@
     "total": 4656
   },
   "deltas_million": {
-    "foreign_5m": -2719226,
-    "foreign_15m": -2604601,
-    "institution_5m": -685737,
-    "institution_15m": -813802,
-    "pension_5m": 26966,
-    "pension_15m": -612,
-    "program_5m": -836,
-    "program_15m": -4531
+    "foreign_5m": 0,
+    "foreign_15m": 78438,
+    "institution_5m": 0,
+    "institution_15m": -147681,
+    "pension_5m": 0,
+    "pension_15m": -23892,
+    "program_5m": 0,
+    "program_15m": -7094
   },
   "derived": {
-    "foreign_net_ratio": "0",
+    "foreign_net_ratio": "0.1108006449059540480427172287",
     "pension_absorption_ratio": "0"
   },
   "flow_quality": {
@@ -67,5 +67,5 @@
     "financial_investment_only_warning": false,
     "latest_price_flow_regime": "PRICE_UP_WITH_CORE_BUYING"
   },
-  "provider_complete": false
+  "provider_complete": true
 }
