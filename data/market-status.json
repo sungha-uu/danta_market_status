@@ -1,12 +1,12 @@
 {
   "schema_version": "danta-market-status-v1",
-  "observed_at": "2026-08-13T23:43:45.789356+00:00",
+  "observed_at": "2026-08-13T23:49:16.378358+00:00",
   "risk": {
-    "level": "NORMAL",
-    "entry_guard": "NORMAL",
+    "level": "RISK_OFF",
+    "entry_guard": "RISK_OFF",
     "stress_score": "0",
     "reason_codes": [
-      "MARKET_NORMAL"
+      "MARKET_DATA_INCOMPLETE"
     ]
   },
   "kospi": {
@@ -67,5 +67,5 @@
     "financial_investment_only_warning": false,
     "latest_price_flow_regime": "PRICE_UP_WITH_CORE_BUYING"
   },
-  "provider_complete": true
+  "provider_complete": false
 }
