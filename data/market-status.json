@@ -1,6 +1,6 @@
 {
   "schema_version": "danta-market-status-v1",
-  "observed_at": "2026-08-13T13:06:29.725306+00:00",
+  "observed_at": "2026-08-13T13:11:59.825087+00:00",
   "risk": {
     "level": "NORMAL",
     "entry_guard": "NORMAL",
