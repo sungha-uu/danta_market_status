@@ -1,6 +1,6 @@
 {
   "schema_version": "danta-market-status-v1",
-  "observed_at": "2026-08-13T08:15:57.140441+00:00",
+  "observed_at": "2026-08-13T08:19:54.215808+00:00",
   "risk": {
     "level": "NORMAL",
     "entry_guard": "NORMAL",
@@ -57,15 +57,6 @@
     "foreign_net_ratio": "0.06114631449595079644001896821",
     "pension_absorption_ratio": "0"
   },
-  "flow_quality": {
-    "as_of_date": "20260813",
-    "foreign_positive_streak": 3,
-    "pension_positive_streak": 0,
-    "investment_trust_positive_streak": 3,
-    "joint_positive_days_5": 0,
-    "joint_positive_days_10": 1,
-    "financial_investment_only_warning": false,
-    "latest_price_flow_regime": "PRICE_UP_WITH_CORE_BUYING"
-  },
+  "flow_quality": null,
   "provider_complete": true
 }
