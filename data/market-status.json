@@ -1,28 +1,27 @@
 {
   "schema_version": "danta-market-status-v1",
-  "observed_at": "2026-08-14T02:58:45.132168+00:00",
+  "observed_at": "2026-08-14T02:59:35.858358+00:00",
   "risk": {
     "level": "NORMAL",
     "entry_guard": "NORMAL",
-    "stress_score": "0.1531930601698043558508674788",
+    "stress_score": "0.1509782207456626061277224068",
     "reason_codes": [
-      "MARKET_NORMAL",
-      "PROGRAM_SELLING_ACCELERATING"
+      "MARKET_NORMAL"
     ]
   },
   "kospi": {
-    "index": "6884.58",
-    "return_pct": "1.05",
+    "index": "6883.24",
+    "return_pct": "1.03",
     "open": "6995.67",
     "high": "7010.86",
     "low": "6848.43",
-    "accumulated_trading_value_million": 15120845
+    "accumulated_trading_value_million": 15147300
   },
   "breadth": {
-    "rising": 450,
-    "flat": 38,
-    "declining": 415,
-    "declining_ratio": "0.4595791805094130675526024363",
+    "rising": 444,
+    "flat": 50,
+    "declining": 409,
+    "declining_ratio": "0.4529346622369878183831672204",
     "upper_limit": 1,
     "lower_limit": 0
   },
@@ -40,31 +39,31 @@
     "other_corporation": -28222
   },
   "program_net_million": {
-    "arbitrage": -72639,
-    "non_arbitrage": -36060,
-    "total": -108700
+    "arbitrage": -72718,
+    "non_arbitrage": -36080,
+    "total": -108799
   },
   "deltas_million": {
-    "foreign_5m": 19100,
-    "foreign_15m": 63239,
-    "institution_5m": -15646,
-    "institution_15m": -30895,
-    "pension_5m": -6197,
-    "pension_15m": -2723,
-    "program_5m": -5388,
-    "program_15m": -5744
+    "foreign_5m": 0,
+    "foreign_15m": 0,
+    "institution_5m": 0,
+    "institution_15m": 0,
+    "pension_5m": 0,
+    "pension_15m": 0,
+    "program_5m": 0,
+    "program_15m": 0
   },
   "derived": {
-    "foreign_net_ratio": "0.08215083217902174117914706486",
+    "foreign_net_ratio": "0.08200735444600687911376945066",
     "pension_absorption_ratio": "0"
   },
   "flow_quality": {
     "as_of_date": "20260814",
     "foreign_positive_streak": 4,
     "pension_positive_streak": 1,
-    "investment_trust_positive_streak": 4,
-    "joint_positive_days_5": 1,
-    "joint_positive_days_10": 1,
+    "investment_trust_positive_streak": 0,
+    "joint_positive_days_5": 0,
+    "joint_positive_days_10": 0,
     "financial_investment_only_warning": false,
     "latest_price_flow_regime": "PRICE_UP_WITH_CORE_BUYING"
   },
