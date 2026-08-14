@@ -1,47 +1,47 @@
 {
   "schema_version": "danta-market-status-v1",
-  "observed_at": "2026-08-14T00:58:47.216668+00:00",
+  "observed_at": "2026-08-14T01:01:07.406805+00:00",
   "risk": {
-    "level": "NORMAL",
-    "entry_guard": "NORMAL",
-    "stress_score": "0.1425925925925925925925925926",
+    "level": "RISK_OFF",
+    "entry_guard": "RISK_OFF",
+    "stress_score": "0.1396895787139689578713968958",
     "reason_codes": [
-      "MARKET_NORMAL"
+      "MARKET_DATA_INCOMPLETE"
     ]
   },
   "kospi": {
-    "index": "6913.58",
-    "return_pct": "1.47",
+    "index": "6897.38",
+    "return_pct": "1.23",
     "open": "6995.67",
     "high": "7010.86",
     "low": "6895.98",
-    "accumulated_trading_value_million": 8415828
+    "accumulated_trading_value_million": 8612742
   },
   "breadth": {
-    "rising": 467,
-    "flat": 48,
-    "declining": 385,
-    "declining_ratio": "0.4277777777777777777777777778",
+    "rising": 478,
+    "flat": 46,
+    "declining": 378,
+    "declining_ratio": "0.4190687361419068736141906874",
     "upper_limit": 1,
     "lower_limit": 0
   },
   "investor_net_million": {
-    "personal": -423148,
-    "foreign": 666598,
-    "institution": -218785,
-    "financial_investment": -441783,
-    "insurance": 9774,
-    "investment_trust": 6167,
-    "private_fund": -4706,
-    "bank": -2837,
-    "other_finance": 3179,
-    "pension_fund_etc": 211420,
-    "other_corporation": -24665
+    "personal": 0,
+    "foreign": 0,
+    "institution": 0,
+    "financial_investment": 0,
+    "insurance": 0,
+    "investment_trust": 0,
+    "private_fund": 0,
+    "bank": 0,
+    "other_finance": 0,
+    "pension_fund_etc": 0,
+    "other_corporation": 0
   },
   "program_net_million": {
-    "arbitrage": -56616,
-    "non_arbitrage": -16421,
-    "total": -73038
+    "arbitrage": -56498,
+    "non_arbitrage": -17259,
+    "total": -73758
   },
   "deltas_million": {
     "foreign_5m": 0,
@@ -54,7 +54,7 @@
     "program_15m": 0
   },
   "derived": {
-    "foreign_net_ratio": "0.07920765490929710065367305511",
+    "foreign_net_ratio": "0",
     "pension_absorption_ratio": "0"
   },
   "flow_quality": {
@@ -67,5 +67,5 @@
     "financial_investment_only_warning": false,
     "latest_price_flow_regime": "PRICE_UP_WITH_CORE_BUYING"
   },
-  "provider_complete": true
+  "provider_complete": false
 }
