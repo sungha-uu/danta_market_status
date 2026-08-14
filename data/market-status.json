@@ -1,27 +1,27 @@
 {
   "schema_version": "danta-market-status-v1",
-  "observed_at": "2026-08-14T06:25:32.055950+00:00",
+  "observed_at": "2026-08-14T06:31:02.113961+00:00",
   "risk": {
     "level": "NORMAL",
     "entry_guard": "NORMAL",
-    "stress_score": "0.08830022075055187637969094923",
+    "stress_score": "0.07542310522442972774098601913",
     "reason_codes": [
       "MARKET_NORMAL"
     ]
   },
   "kospi": {
-    "index": "6967.62",
-    "return_pct": "2.26",
+    "index": "6977.34",
+    "return_pct": "2.41",
     "open": "6995.67",
     "high": "7010.86",
     "low": "6848.43",
-    "accumulated_trading_value_million": 25252932
+    "accumulated_trading_value_million": 26720465
   },
   "breadth": {
-    "rising": 635,
-    "flat": 31,
-    "declining": 240,
-    "declining_ratio": "0.2649006622516556291390728477",
+    "rising": 676,
+    "flat": 25,
+    "declining": 205,
+    "declining_ratio": "0.2262693156732891832229580574",
     "upper_limit": 3,
     "lower_limit": 0
   },
@@ -39,9 +39,9 @@
     "other_corporation": -25875
   },
   "program_net_million": {
-    "arbitrage": -79582,
-    "non_arbitrage": -77075,
-    "total": -156657
+    "arbitrage": -79894,
+    "non_arbitrage": -72286,
+    "total": -152180
   },
   "deltas_million": {
     "foreign_5m": 0,
@@ -50,13 +50,22 @@
     "institution_15m": 0,
     "pension_5m": 0,
     "pension_15m": 0,
-    "program_5m": 0,
+    "program_5m": 4477,
     "program_15m": 0
   },
   "derived": {
-    "foreign_net_ratio": "0.1209716558853443235819112014",
+    "foreign_net_ratio": "0.1143276885338634638281931097",
     "pension_absorption_ratio": "0"
   },
-  "flow_quality": null,
+  "flow_quality": {
+    "as_of_date": "20260814",
+    "foreign_positive_streak": 4,
+    "pension_positive_streak": 1,
+    "investment_trust_positive_streak": 0,
+    "joint_positive_days_5": 0,
+    "joint_positive_days_10": 0,
+    "financial_investment_only_warning": false,
+    "latest_price_flow_regime": "PRICE_UP_WITH_CORE_BUYING"
+  },
   "provider_complete": true
 }
