@@ -1,12 +1,13 @@
 {
   "schema_version": "danta-market-status-v1",
-  "observed_at": "2026-08-17T03:57:49.891569+00:00",
+  "observed_at": "2026-08-17T04:03:19.979199+00:00",
   "risk": {
     "level": "NORMAL",
     "entry_guard": "NORMAL",
     "stress_score": "0.07505518763796909492273730683",
     "reason_codes": [
-      "MARKET_NORMAL"
+      "MARKET_NORMAL",
+      "PROGRAM_SELLING_ACCELERATING"
     ]
   },
   "kospi": {
@@ -50,7 +51,7 @@
     "institution_15m": 0,
     "pension_5m": 0,
     "pension_15m": 0,
-    "program_5m": 0,
+    "program_5m": -207133,
     "program_15m": 0
   },
   "derived": {
