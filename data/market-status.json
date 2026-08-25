@@ -1,42 +1,42 @@
 {
   "schema_version": "danta-market-status-v1",
-  "observed_at": "2026-08-25T04:23:17.689856+00:00",
+  "observed_at": "2026-08-25T04:24:26.022238+00:00",
   "risk": {
     "level": "NORMAL",
     "entry_guard": "NORMAL",
-    "stress_score": "0.2148729281767955801104972376",
+    "stress_score": "0.2176629834254143646408839779",
     "reason_codes": [
       "MARKET_NORMAL"
     ]
   },
   "kospi": {
-    "index": "6675.48",
-    "return_pct": "-0.32",
+    "index": "6672.50",
+    "return_pct": "-0.37",
     "open": "6535.93",
     "high": "6675.48",
     "low": "6408.82",
-    "accumulated_trading_value_million": 16025578
+    "accumulated_trading_value_million": 16086585
   },
   "breadth": {
-    "rising": 540,
+    "rising": 544,
     "flat": 34,
-    "declining": 331,
-    "declining_ratio": "0.3657458563535911602209944751",
+    "declining": 327,
+    "declining_ratio": "0.3613259668508287292817679558",
     "upper_limit": 2,
     "lower_limit": 0
   },
   "investor_net_million": {
-    "personal": 887044,
-    "foreign": -2743202,
-    "institution": 713674,
-    "financial_investment": 568907,
-    "insurance": 10341,
-    "investment_trust": -100606,
-    "private_fund": 26935,
-    "bank": -7890,
-    "other_finance": 12548,
-    "pension_fund_etc": 203439,
-    "other_corporation": 1142484
+    "personal": 895827,
+    "foreign": -2753479,
+    "institution": 709180,
+    "financial_investment": 571333,
+    "insurance": 10358,
+    "investment_trust": -100585,
+    "private_fund": 27525,
+    "bank": -7828,
+    "other_finance": 12624,
+    "pension_fund_etc": 195752,
+    "other_corporation": 1148471
   },
   "program_net_million": {
     "arbitrage": 105517,
@@ -54,8 +54,8 @@
     "program_15m": 0
   },
   "derived": {
-    "foreign_net_ratio": "-0.1711764780028526896190577338",
-    "pension_absorption_ratio": "0.07416114453109905869126662929"
+    "foreign_net_ratio": "-0.1711661611212075154546474594",
+    "pension_absorption_ratio": "0.07109260684392363261168870364"
   },
   "flow_quality": {
     "as_of_date": "20260825",
