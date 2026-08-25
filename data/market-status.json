@@ -1,42 +1,42 @@
 {
   "schema_version": "danta-market-status-v1",
-  "observed_at": "2026-08-25T05:12:46.646903+00:00",
+  "observed_at": "2026-08-25T05:13:54.221157+00:00",
   "risk": {
     "level": "NORMAL",
     "entry_guard": "NORMAL",
-    "stress_score": "0.1764591611479028697571743930",
+    "stress_score": "0.1721479028697571743929359824",
     "reason_codes": [
       "MARKET_NORMAL"
     ]
   },
   "kospi": {
-    "index": "6689.09",
-    "return_pct": "-0.12",
+    "index": "6689.65",
+    "return_pct": "-0.11",
     "open": "6535.93",
     "high": "6697.15",
     "low": "6408.82",
-    "accumulated_trading_value_million": 18566147
+    "accumulated_trading_value_million": 18611979
   },
   "breadth": {
-    "rising": 572,
-    "flat": 36,
-    "declining": 298,
-    "declining_ratio": "0.3289183222958057395143487859",
+    "rising": 574,
+    "flat": 40,
+    "declining": 292,
+    "declining_ratio": "0.3222958057395143487858719647",
     "upper_limit": 2,
     "lower_limit": 1
   },
   "investor_net_million": {
-    "personal": 1040756,
-    "foreign": -3101737,
-    "institution": 684088,
-    "financial_investment": 634470,
-    "insurance": 10320,
-    "investment_trust": -88734,
-    "private_fund": 48656,
-    "bank": -10499,
-    "other_finance": 16834,
-    "pension_fund_etc": 73041,
-    "other_corporation": 1376893
+    "personal": 1028844,
+    "foreign": -3107680,
+    "institution": 698347,
+    "financial_investment": 640784,
+    "insurance": 10122,
+    "investment_trust": -88413,
+    "private_fund": 49889,
+    "bank": -10668,
+    "other_finance": 17076,
+    "pension_fund_etc": 79557,
+    "other_corporation": 1380488
   },
   "program_net_million": {
     "arbitrage": 68620,
@@ -54,18 +54,9 @@
     "program_15m": 0
   },
   "derived": {
-    "foreign_net_ratio": "-0.1670641194427686046006206888",
-    "pension_absorption_ratio": "0.02354841819277391990358950485"
+    "foreign_net_ratio": "-0.1669720345160501201940965010",
+    "pension_absorption_ratio": "0.02560012613911342223137517376"
   },
-  "flow_quality": {
-    "as_of_date": "20260825",
-    "foreign_positive_streak": 0,
-    "pension_positive_streak": 3,
-    "investment_trust_positive_streak": 0,
-    "joint_positive_days_5": 0,
-    "joint_positive_days_10": 1,
-    "financial_investment_only_warning": false,
-    "latest_price_flow_regime": "PRICE_DOWN_WITH_CORE_SELLING"
-  },
+  "flow_quality": null,
   "provider_complete": true
 }
