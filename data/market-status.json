@@ -1,60 +1,60 @@
 {
   "schema_version": "danta-market-status-v1",
-  "observed_at": "2026-09-01T02:12:18.085527+00:00",
+  "observed_at": "2026-09-01T02:17:48.159943+00:00",
   "risk": {
     "level": "CAUTION",
     "entry_guard": "CAUTION",
-    "stress_score": "0.3662831858407079646017699115",
+    "stress_score": "0.3467522123893805309734513274",
     "reason_codes": [
       "MARKET_STRESS_ELEVATED"
     ]
   },
   "kospi": {
-    "index": "6799.57",
-    "return_pct": "-0.30",
+    "index": "6809.08",
+    "return_pct": "-0.16",
     "open": "6784.29",
     "high": "6857.35",
     "low": "6732.47",
-    "accumulated_trading_value_million": 8694805
+    "accumulated_trading_value_million": 8826765
   },
   "breadth": {
-    "rising": 259,
-    "flat": 37,
-    "declining": 608,
-    "declining_ratio": "0.6725663716814159292035398230",
+    "rising": 262,
+    "flat": 44,
+    "declining": 598,
+    "declining_ratio": "0.6615044247787610619469026549",
     "upper_limit": 1,
     "lower_limit": 0
   },
   "investor_net_million": {
-    "personal": 417156,
-    "foreign": -277373,
-    "institution": -748335,
-    "financial_investment": -595902,
-    "insurance": 3399,
-    "investment_trust": -11663,
-    "private_fund": -13537,
-    "bank": 1796,
-    "other_finance": 2999,
-    "pension_fund_etc": -135428,
-    "other_corporation": 608552
+    "personal": 410880,
+    "foreign": -279306,
+    "institution": -761469,
+    "financial_investment": -603013,
+    "insurance": 3479,
+    "investment_trust": -12988,
+    "private_fund": -14969,
+    "bank": 1836,
+    "other_finance": 3210,
+    "pension_fund_etc": -139022,
+    "other_corporation": 629895
   },
   "program_net_million": {
-    "arbitrage": -34576,
-    "non_arbitrage": -14761,
-    "total": -49337
+    "arbitrage": -34290,
+    "non_arbitrage": -15540,
+    "total": -49830
   },
   "deltas_million": {
-    "foreign_5m": -20089,
-    "foreign_15m": -45577,
-    "institution_5m": -9708,
-    "institution_15m": -55269,
-    "pension_5m": 11043,
-    "pension_15m": -4819,
-    "program_5m": 3920,
-    "program_15m": 5149
+    "foreign_5m": -1933,
+    "foreign_15m": -34430,
+    "institution_5m": -13134,
+    "institution_15m": -44866,
+    "pension_5m": -3594,
+    "pension_15m": 8575,
+    "program_5m": -372,
+    "program_15m": 8570
   },
   "derived": {
-    "foreign_net_ratio": "-0.03190100295521291161791437531",
+    "foreign_net_ratio": "-0.03164307648385337096886571694",
     "pension_absorption_ratio": "0"
   },
   "flow_quality": {
