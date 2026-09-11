@@ -1,6 +1,6 @@
 {
   "schema_version": "danta-market-status-v1",
-  "observed_at": "2026-09-11T06:20:07.819870+00:00",
+  "observed_at": "2026-09-11T06:25:37.872226+00:00",
   "risk": {
     "level": "CAUTION",
     "entry_guard": "CAUTION",
@@ -26,36 +26,36 @@
     "lower_limit": 0
   },
   "investor_net_million": {
-    "personal": 1818267,
-    "foreign": -2352687,
-    "institution": -1114406,
-    "financial_investment": -1216594,
-    "insurance": -1388,
-    "investment_trust": -50877,
-    "private_fund": -127590,
+    "personal": 1819072,
+    "foreign": -2355584,
+    "institution": -1112341,
+    "financial_investment": -1216289,
+    "insurance": -1442,
+    "investment_trust": -49269,
+    "private_fund": -127521,
     "bank": 668,
     "other_finance": 21704,
-    "pension_fund_etc": 259670,
-    "other_corporation": 1648826
+    "pension_fund_etc": 259807,
+    "other_corporation": 1648854
   },
   "program_net_million": {
     "arbitrage": -116182,
-    "non_arbitrage": -25099,
-    "total": -141282
+    "non_arbitrage": -25177,
+    "total": -141359
   },
   "deltas_million": {
-    "foreign_5m": -10766,
-    "foreign_15m": -24567,
-    "institution_5m": 8644,
-    "institution_15m": -31994,
-    "pension_5m": 15438,
-    "pension_15m": -5216,
-    "program_5m": 1855,
-    "program_15m": -14435
+    "foreign_5m": -2897,
+    "foreign_15m": -11978,
+    "institution_5m": 2065,
+    "institution_15m": -14316,
+    "pension_5m": 137,
+    "pension_15m": 5056,
+    "program_5m": -77,
+    "program_15m": -3610
   },
   "derived": {
-    "foreign_net_ratio": "-0.1318772809733109446584333204",
-    "pension_absorption_ratio": "0.1103716728999650187211473519"
+    "foreign_net_ratio": "-0.1320396691205569156722891718",
+    "pension_absorption_ratio": "0.1102940926751073194587838939"
   },
   "flow_quality": {
     "as_of_date": "20260911",
